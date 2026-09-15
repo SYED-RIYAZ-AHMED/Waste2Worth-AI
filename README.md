@@ -123,10 +123,11 @@ AI/ML, IoT, backend, cloud, and external service integrations represent the plan
 - Sustainability Framework
 - Implementation Roadmap
 
-## Team 
+## Team
+
 **EcoVanguard**
 
 Smart India Hackathon.
-**EcoVanguard**
 
-Smart India Hackathon
+🌐[ACTIVE ENVIRONMENT](https://syed-riyaz-ahmed.github.io/Waste2Worth-AI/)
+**EcoVanguard**
