@@ -130,4 +130,8 @@ AI/ML, IoT, backend, cloud, and external service integrations represent the plan
 Smart India Hackathon.
 
 🌐[ACTIVE ENVIRONMENT](https://syed-riyaz-ahmed.github.io/Waste2Worth-AI/)
-**EcoVanguard**
+
+
+
+
+
